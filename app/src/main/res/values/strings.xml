@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Remidial</string>
+    <string name="title_activity_navbar1">Navbar1</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_navbar2">Navbar2</string>
+    <string name="title_activity_navbar3">Navbar3</string>
+    <string name="title_activity_navbar4">Navbar4</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
